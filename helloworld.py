@@ -1,2 +1,2 @@
-welcome = "Hello World " + 'Krishna'
+welcome = "Hello World " + str(3)
 print(welcome)
